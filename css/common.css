@@ -1,0 +1,16 @@
+body                     {font-family: Arial, sans-serif; font-size: 13px;}
+img                      {max-width: 100%;}
+h1                       {font-size: 28px;}
+h2                       {font-size: 20px;}
+h3                       {font-size: 18px;}
+h4                       {font-size: 13px;}
+a                        {text-decoration: none; color: #174F82;}
+a:hover                  {text-decoration: underline;}
+p                        {color: #505050;}
+
+
+.rightWrapper            { float: right;}
+.leftWrapper             { float: left;}
+.footer                  { clear: both; bottom: 0;}
+.rightWrapper > div ,
+.leftWrapper > div       { overflow: hidden; clear: both;}
