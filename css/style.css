@@ -1,0 +1,26 @@
+
+
+
+.blq-nav                          {overflow: hidden; padding-bottom:8px; padding-top: 8px;}
+#blq-blocks                       {float: left;}
+
+#mainNavigation                   { float: right; }
+#mainNavigation a                 { border-bottom:4px solid white; border-right:1px solid #CCCCCC; color:#333333;
+                                    padding:8px 30px; text-decoration:none;
+                                  }
+
+#mainNavigation a:hover           { border-bottom:4px solid #000000;}
+
+#mainNavigation a:nth-child(1)    { border-left:1px solid #CCCCCC; }
+#mainNavigation form              { display: inline;}
+
+#spotlight                        { height: 66px; padding: 0 8px; background-color: #DCDCDC; margin-top: 10px;
+                                    border-bottom: 1px solid #D3D3D3;
+                                  }
+
+#spotlight_title a:hover          {text-decoration: underline;}
+#spotlight_small                  {padding: 8px;  background-color: #F0F0F0;}
+
+#spotlight_small a:hover          {text-decoration: underline;}
+
+
